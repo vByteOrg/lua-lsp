@@ -2,7 +2,7 @@
 
 A language server for Lua, written in Javascript. Also includes a vscode extension client.
 
-`/server` - Contains the language server implementation.
+`/server` - Contains the language server implementation. \
 `/client` - Contains the vscode extension client.
 
 ### Roadmap
